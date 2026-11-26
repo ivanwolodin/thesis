@@ -1,3 +1,6 @@
+*/__pycache__/
+*/.DS_Store
+figures/.DS_Store
 .DS_Store
 diff/
 thesis_thin_films_old.tex
