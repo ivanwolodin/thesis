@@ -151,6 +151,12 @@ supplementary_materials/
 - `utility_plotters/` — вспомогательные скрипты для визуализации и постобработки результатов.
 - `run.sh` — скрипт запуска вычислений.
 
+## Связанные репозитории
+
+В этом разделе представлены отдельные программные проекты, связанные с тематикой диссертационной работы и используемые в исследованиях.
+
+- **[stiff_eqs_solver](https://github.com/ivanwolodin/stiff_eqs_solver)** — численное решение жестких дифференциальных уравнений и осредненной системы уравнений динамики тонких жидких пленок под действием вертикальных вибраций на основе библиотеки `py-pde`.
+
 ---
 
 # Dissertation and Supplementary Materials
@@ -305,3 +311,10 @@ The implementation is divided into separate header files:
 - `io.h` — input/output operations.
 - `utility_plotters/` — auxiliary plotting and post-processing scripts.
 - `run.sh` — simulation execution script.
+
+## Related Repositories
+
+This section lists standalone software projects related to the subject of this dissertation and used in the associated research.
+
+- **[stiff_eqs_solver](https://github.com/ivanwolodin/stiff_eqs_solver)** — numerical solution of stiff differential equations and the averaged system governing the dynamics of thin liquid films under vertical vibrations, implemented using the `py-pde` library.
+
